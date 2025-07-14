@@ -1,0 +1,2 @@
+welcome to AiOPs training
+We will cover using AI in devlopment operation
